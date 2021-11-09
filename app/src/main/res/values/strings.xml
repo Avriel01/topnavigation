@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">bottom navigation dan fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image">IMAGE</string>
+    <string name="whatsapp">WHATSAPP</string>
+    <string name="setting">SETTING</string>
+    <string name="mail">MAIL</string>
+</resources>
